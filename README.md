@@ -4,7 +4,7 @@ EVカート要求仕様書
 
 ![表紙](/image/cover.jpg)
 
-1. [ハードウェア構成とハードウェア要求仕様](/hardware_config_and_requirements)
+1. [ハードウェア構成とハードウェア要求仕様](/hardware_config_and_requirements.md)
 
 1. [操作仕様](/operation_requirements)
 
