@@ -8,7 +8,9 @@ EVカート要求仕様書
 
 1. [操作仕様](/operation_requirements.md)
 
-1. [モータ駆動仕様](/motor_drive_requirements.md)
+* 要求ID: accelerator*
+
+3. [モータ駆動仕様](/motor_drive_requirements.md)
 
 1. [TDD](/tdd_requirements.md)
 
